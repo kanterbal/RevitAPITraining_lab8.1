@@ -2,7 +2,9 @@
 <RevitAddIns>
 	<AddIn Type="Command">
 		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITraining_lab8.1.dll"</Assembly>		
-		<AddInId>D23B583B-198B-4A56-A0BB-67BF47169FD4</AddInId>
+		<AddInId>
+			64688139-927E-40DD-A7D9-666103E03809
+		</AddInId>
 		<FullClassName>RevitAPITraining_lab8._1.Main</FullClassName>
 		<VendorId>ADSK</VendorId>
 		<Text>Экспорт в IFC</Text>
